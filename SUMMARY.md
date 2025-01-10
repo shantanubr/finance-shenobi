@@ -5,13 +5,33 @@
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Disclaimer](getting-started/publish-your-docs.md)
 
-## Basics
+## Level I&#x20;
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Ethics and Professional Standards](level-i/ethics-and-professional-standards.md)
+* [Quantitative Methods](level-i/quantitative-methods.md)
+* [Economics](level-i/economics.md)
+* [Financial Reporting And Analysis](level-i/financial-reporting-and-analysis.md)
+* [Corporate Issuers](level-i/corporate-issuers.md)
+* [Equity](level-i/equity.md)
+* [Fixed Income](level-i/fixed-income.md)
+* [Derivatives](level-i/derivatives.md)
+* [Portfolio Management](level-i/portfolio-management.md)
+* [Alternative Investments](level-i/alternative-investments.md)
+
+## Level II
+
+* [Quantitative Methods](level-ii/quantitative-methods.md)
+* [Economics](level-ii/economics.md)
+* [Financial Reporting And Analysis](level-ii/financial-reporting-and-analysis.md)
+* [Corporate Issuers](level-ii/corporate-issuers.md)
+* [Equity](level-ii/equity.md)
+* [Fixed Income](level-ii/fixed-income.md)
+* [Derivatives](level-ii/derivatives.md)
+* [Portfolio Management](level-ii/portfolio-management.md)
+* [Alternative Investments](level-ii/alternative-investments.md)
+
+## Level III
+
+* [Coming Soon](level-iii/coming-soon.md)
